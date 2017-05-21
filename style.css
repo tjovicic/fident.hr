@@ -201,7 +201,7 @@ ul {
     height: 100%;
     width: 100%;
     content: "";
-    background: #222222;
+    background: #51b7e0;
     opacity: .95;
     filter: alpha(opacity=95);
     z-index: -1;
@@ -250,7 +250,7 @@ a.link-out:hover {
 }
 
 .button {
-    background: #222222 none repeat scroll 0 0;
+    background: #51b7e0 none repeat scroll 0 0;
     color: #ffffff;
     display: inline-block;
     font-size: 12px;
@@ -1648,7 +1648,7 @@ dl.accordion {
 /*-----------------------------------------------------------------------------------*/
 
 .sin-pricing-table {
-    background: #222222 none repeat scroll 0 0;
+    background: #51b7e0 none repeat scroll 0 0;
     padding: 35px 0;
     text-align: center;
     -webkit-transition: .3s;
@@ -2299,7 +2299,7 @@ ul.degins li::after,
 .Modern-Slider .NextArrow:hover,
 .sin-pricing-table.active,
 a.pricing-btn {
-    background-color: #f98bcc;    /* -- Your primary color code here -- */
+	background-color: #e05184; /* -- Your primary color code here -- */  
 }
 
 
@@ -2311,7 +2311,7 @@ a.pricing-btn {
 .color-trigger,
 .about-gallery-posts .owl-dot.active,
 .sin-pricing-table.active .pricing-status {
-    background-color: #eac11b;    /* -- Your primary color hover code here -- */
+    background-color: #e0c651;    /* -- Your primary color hover code here -- */
 }
 
 
@@ -2340,7 +2340,7 @@ a.author,
 .sidebar .widget,
 .sin-pricing-table.active .pricing-btn,
 .sin-pricing-table {
-    background-color: #222222;
+    background-color: #3d3a3a;
 }
 
 .bb-top,
