@@ -3,7 +3,7 @@ window.marker = null;
 function initialize() {
     var map;
 
-    var newyork = new google.maps.LatLng(40.712784, -74.005941);
+    var fident = new google.maps.LatLng(45.794276, 15.996789);
 
     var style = [
         {
@@ -33,11 +33,11 @@ function initialize() {
 
     var mapOptions = {
         // SET THE CENTER
-        center: newyork,
+        center: fident,
 
         // SET THE MAP STYLE & ZOOM LEVEL
         mapTypeId: google.maps.MapTypeId.ROADMAP,
-        zoom: 12,
+        zoom: 15,
 
         // SET THE BACKGROUND COLOUR
         backgroundColor: "#eeeeee",
@@ -69,10 +69,10 @@ function initialize() {
     var pinIcon = new google.maps.MarkerImage(marker_image, null, null, null, new google.maps.Size(21, 34));
 
     marker = new google.maps.Marker({
-        position: newyork,
+        position: fident,
         map: map,
         icon: 'img/map-marker.png',
-        title: 'New York'
+        title: 'Fident'
     });
 }
 
