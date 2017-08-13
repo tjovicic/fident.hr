@@ -70,7 +70,7 @@ html {
 body {
     font-family: 'Poppins', sans-serif;
     line-height: 30px;
-    color: #999999;
+    color: #2d2d2d;
     font-weight: 300;
 }
 
@@ -208,7 +208,7 @@ ul {
 }
 
 strong {
-    color: #999999;
+    color: #2d2d2d;
 }
 
 a.link-out {
@@ -358,7 +358,7 @@ a.link-out:hover {
 
 .info-content {
     color: #777777;
-    font-size: 12px;
+    font-size: 14px;
     font-weight: 300;
     line-height: 20px;
     padding-left: 40px;
@@ -459,7 +459,7 @@ a.link-out:hover {
     font-size: 12px;
     font-weight: 600;
     line-height: 20px;
-    padding: 22px 22px 18px;
+    padding: 22px 33px 18px;
     text-transform: uppercase;
 }
 
@@ -819,7 +819,7 @@ ul.nav.navbar-nav li:hover ul {
 }
 
 .about-thumb figcaption {
-    color: #999999;
+    color: #2d2d2d;
     font-size: 12px;
     font-style: italic;
     line-height: 22px;
@@ -830,12 +830,12 @@ ul.nav.navbar-nav li:hover ul {
 
 .about-quote {
     padding-bottom: 64px;
-    padding-top: 64px;
+    padding-top: 0px;
 }
 
 blockquote {
     border-left: 0 dashed;
-    color: #999999;
+    color: #2d2d2d;
     font-size: 14px;
     font-weight: 300;
     margin: 0;
@@ -920,7 +920,7 @@ blockquote:after {
 /*-----------------------------------------------------------------------------------*/
 
 .work-excerp {
-    color: #999999;
+    color: #2d2d2d;
     font-weight: 300;
 }
 
@@ -1009,7 +1009,7 @@ blockquote:after {
 }
 
 .info-area div.info-text {
-    color: #999999;
+    color: #2d2d2d;
     margin-left: 30px;
 }
 
@@ -1060,7 +1060,7 @@ blockquote:after {
 }
 
 .sin-tesimonial {
-    color: #999999;
+    color: #2d2d2d;
     font-style: italic;
 }
 
@@ -1119,7 +1119,7 @@ blockquote:after {
 }
 
 .news-date {
-    color: #999999;
+    color: #2d2d2d;
     font-size: 12px;
     font-weight: 300;
 }
@@ -1285,7 +1285,7 @@ blockquote:after {
 }
 
 .sub-title {
-    color: #999999;
+    color: #2d2d2d;
     font-size: 12px;
 }
 
@@ -1301,7 +1301,7 @@ blockquote:after {
 }
 
 .bread-cumb > ul li a {
-    color: #999999;
+    color: #2d2d2d;
     font-size: 12px;
     font-weight: 300;
 }
@@ -1328,8 +1328,8 @@ blockquote:after {
 /*-----------------------------------------------------------------------------------*/
 
 .about-content {
-    color: #999999;
-    padding: 21px 0 9px;
+    color: #2d2d2d;
+    padding: 0px 0 9px;
 }
 
 .about-gallery-posts {
@@ -2008,7 +2008,7 @@ div.mail_error {
 }
 
 .pagination a:hover {
-    color: #999999;
+    color: #2d2d2d;
 }
 
 .pagination a i {
@@ -2054,7 +2054,7 @@ div.mail_error {
 }
 
 .news-meta {
-    color: #999999;
+    color: #2d2d2d;
     font-size: 12px;
 }
 
@@ -2075,7 +2075,7 @@ a.author {
 }
 
 .news-tags p a {
-    color: #999999;
+    color: #2d2d2d;
     font-weight: 300;
 }
 
